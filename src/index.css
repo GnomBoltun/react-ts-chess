@@ -40,3 +40,12 @@
 .black {
   background-color: #a16207;
 }
+
+.selected {
+  background-color: #10b981;
+}
+
+.available {
+  width: calc(128px * 0.3);
+  height: calc(128px * 0.3);
+}
