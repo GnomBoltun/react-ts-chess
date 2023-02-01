@@ -28,6 +28,10 @@
   align-items: center;
   background: #000;
 }
+.cell img {
+  width: calc(128px * 0.8);
+  height: calc(128px * 0.8);
+}
 
 .white {
   background-color: #fed7aa;
